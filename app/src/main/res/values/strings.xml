@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ITPlace_android01_hw3</string>
+    <string name="fio">Васильева М.В.</string>
+    <string name="make_toast">make Toast</string>
+    <string name="set_color_1">Set color 1</string>
+    <string name="set_color_2">Set color 2</string>
+    <string name="set_color_3">Set color 3</string>
+    <string name="headline">Заголовок</string>
 </resources>
